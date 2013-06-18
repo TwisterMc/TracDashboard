@@ -1,0 +1,51 @@
+#tracReportTable a {
+    background: #CFB931;
+    border-radius: 100px;
+    padding: 3px;
+}
+
+#tracReportTable a:hover {
+    background: green;
+    text-decoration: none;
+}
+
+#tracReportTable input {
+    padding: 0;
+}
+
+.form-row:hover {
+    background-color: #b6b4ae;
+}
+
+.global-navigation {
+    background: #37332B;
+}
+
+.home-welcome {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 20px;
+    width: 80%;
+}
+
+a {
+    color: #FFFFFF;
+}
+
+body {
+    background: url(http://blog.nerdery.com/wp-content/themes/nerdery.com/images/bg_body.jpg);
+}
+
+form {
+    background: #AEACA6;
+    padding: 15px;
+}
+
+hr {
+    border: 1px solid #37332b;
+}
+
+input {
+    padding: 5px;
+}
+
